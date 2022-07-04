@@ -1,0 +1,8 @@
+set number
+syntax on
+imap jk <ESC>
+set autoindent
+set tabstop=2
+set shiftwidth=4
+set softtabstop=2
+set expandtab
